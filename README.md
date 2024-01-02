@@ -12,10 +12,18 @@ YT_trending_videos: This table has video level information along with dates on w
 YT_channel_map: This table has channel_id mapping with the channel title which is also interpreted as channel name
 YT_category_map: This table has category_id mapping. The videos on YouTube are mapped to a category based on the type of video such as Movie, trailer, animation, etc.
 
+Questions
+
 Question1: How many videos have trended for more than 5 days in the US?
+
 Question2: Which category has the highest average trending period?
+
 Question3: How many distinct videos trended from the category ‘Music’ on weekdays (Monday - Friday)?
+
 Question4: What are the total views for category sports in ‘Canada’?
+
 Question5:Rank the videos based on views, likes within each country. Which country has the highest number of videos with rank for views and rank of likes both in top 20?
+
 Question6: What is the average rating of the category Music?
+
 Question7: Which category has the highest average rating based on likes?
